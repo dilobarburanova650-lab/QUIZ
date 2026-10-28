@@ -1,0 +1,13 @@
+{
+  "name": "quizora",
+  "version": "1.0.0",
+  "description": "Do‘stlar bilan test o‘yini",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
